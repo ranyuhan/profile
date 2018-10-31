@@ -1,0 +1,94 @@
+body{
+  font-family: 'Nunito', sans-serif;
+  background-color: #eae7e7;
+  color: #63686e;
+  padding: 10px;
+  line-height: 1.5em;
+}
+
+div{
+  width: 600px;
+  margin: 10px auto;
+  padding: 12px;
+  background-color: white;
+  opacity: 0.8;
+  text-align: center;
+  border-radius: 8px;
+}
+
+h1, h3, h4{
+  font-family: 'Caveat', cursive;
+  color: #155e63;
+}
+
+h1{
+  font-size: 48px;
+}
+
+h3{
+  font-size: 32px;
+}
+
+h4{
+  font-size: 28px;
+}
+
+h5{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+img{
+  border-radius: 10px;
+}
+
+a{
+  /*color: #76b39d;*/
+  color: #63686e;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+a:hover{
+  color: #76b39d;
+}
+
+ul{
+  list-style: none;
+  padding: 20px 0;
+
+}
+
+li{
+  display: inline-block;
+  padding: 20px;
+  text-align: center;
+}
+
+#profile-pic{
+  width: 250px;
+  border-radius: 50%;
+}
+
+.btn-green{
+  background-color: #155e63;
+  opacity: 0.7;
+  color: white;
+  font-weight: 300;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+/*.underline{
+  text-decoration: underline;
+}*/
+
+.favorite{
+  width: 120px;
+}
+
+.bottom-icon{
+  color: #f18a9b;
+}
+
+
